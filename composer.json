@@ -1,0 +1,20 @@
+{
+    "name": "bojaspus/gapi",
+    "description": "Composer auto loading for gapi.",
+    "keywords": ["gapi"],
+    "homepage": "https://github.com/bojaspus/gapi",
+    "authors": [
+        {
+            "name": "bojaspus",
+            "homepage": "https://github.com/bojaspus/"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
