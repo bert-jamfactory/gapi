@@ -1,4 +1,4 @@
 gapi
 ====
 
-Composer auto loading for gapi.
+Composer auto loading for gapi. test.
